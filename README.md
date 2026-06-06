@@ -18,14 +18,14 @@ Graduado em **Sistemas de Informação**, sou um profissional focado na garantia
 
 ## 📌 Projetos em Destaque
 
-Aqui você encontra projetos focados em cenários práticos de QA e modelagem de processos:
+Aqui você encontra projetos focados em cenários práticos de QA em sites ficticios:
 
-1. **[Manual-Testing-ECommerce](LINK_DO_SEU_REPOSITORIO_1):** Plano de testes completo e mapeamento de cenários para uma plataforma de e-commerce fictícia.
-2. **[API-Testing-Postman](LINK_DO_SEU_REPOSITORIO_2):** Coleção de testes de API e validação de status codes utilizando o Postman.
-3. **[SQL-Data-Validation](LINK_DO_SEU_REPOSITORIO_3):** Scripts e consultas lógicas em SQL focados na validação e integridade de relatórios financeiros.
+1. **[Site: SauceDemo](https://www.saucedemo.com/):** Loja ficticia para testar fluxo de compras.
+2. **[The Internet](https://www.saucedemo.com/):** Cenário classio para automação.
+3. **[OrangeHRM Demo](https://orangehrm.com/):** Sistema HR para contexto empresarial.
 
 ---
 
 ### 📫 Como me encontrar:
-* 💼 LinkedIn: [Inserir o link do seu LinkedIn]
-* 📧 E-mail: [Inserir seu e-mail]
+* 💼 LinkedIn: [https://www.linkedin.com/in/lucas-miranda-teixeira-36159b1a4/?skipRedirect=true]
+* 📧 E-mail: [Lucas_miranda2001@hotmail.com]
